@@ -1,5 +1,5 @@
 # nitro-claimer
-Automatic Discord nitro claimer made using discord.py-self by checking every message for a discord nitro gift link and automatically claiming it.
+Automatic Discord nitro claimer made using discord.py-self that checks every message sent for a discord nitro gift link and automatically claiming it.
 
 
 
